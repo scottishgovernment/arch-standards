@@ -15,10 +15,12 @@ Standards in this catalogue will be endorsed based on the standards endorsement 
 
 ## Revision History
 
-| Version       | Issued     | Comments
-| -             | -          | -
-|           0.1 | 11-08-2015 | Created and added an entries for HTML & CSS.
-|           0.2 | 28-08-2015 | Corrected purpose section.
+| Version | Issued     | Comments
+| -       | -          | -
+|     0.1 | 11-08-2015 | Created and added an entries for HTML & CSS.
+|     0.2 | 28-08-2015 | Corrected purpose section.
+|     0.3 | 02-09-2015 | Added Atom Syndication Format.
+|     0.4 | 03-05-2016 | Added standards related to linked data.
 
 
 ## Standards
@@ -67,7 +69,7 @@ CSS is a general purpose standard that can be used for styling HTML & XML docume
 
 | -                  | -                               |
 | Standards Body     | [W3C](http://www.w3.org)        |
-| Endorsement Status | Provisional Standard               |
+| Endorsement Status | Provisional Standard            |
 | Applicability      | Data Standard                   |
 | Open Standard?     | Expected Yes[^expect-yes]       |
 | License            | [W3C Document Licence][w3c-lic] |
@@ -100,6 +102,120 @@ Use of Atom should be preferred over use of RSS. See this linked [comparison of 
 | Applicability      | Data Standard                   |
 | Open Standard?     | Unknown[^unknown]               |
 | License            | Unknown                         |
+
+### [Cross-Origin Resource Sharing (CORS)](http://www.w3.org/TR/cors/)
+
+Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources (e.g. fonts) on a web page to be requested from another domain outside the domain from which the resource originated.
+
+A web page may freely embed images, stylesheets, scripts, iframes, videos and some plugin content (such as Adobe Flash) from any other domain. However embedded web fonts and AJAX (XMLHttpRequest) requests have traditionally been limited to accessing the same domain as the parent web page (as per the same-origin security policy). "Cross-domain" AJAX requests are forbidden by default because of their ability to perform advanced requests (POST, PUT, DELETE and other types of HTTP requests, along with specifying custom HTTP headers) that introduce many cross-site scripting security issues.
+
+CORS defines a way in which a browser and server can interact to determine safely whether or not to allow the cross-origin request.[2] It allows for more freedom and functionality than purely same-origin requests, but is more secure than simply allowing all cross-origin requests.
+
+| -                  | -                               |
+| Standards Body     | [W3C](http://www.w3.org)        |
+| Endorsement Status | Provisional Standard            |
+| Applicability      | Data Standard                   |
+| Open Standard?     | Expected Yes[^expect-yes]       |
+| License            | [W3C Document Licence][w3c-lic] |
+
+### [RDF 1.1](http://www.w3.org/TR/rdf11-primer/)
+
+The Resource Description Framework (RDF) is a family of World Wide Web Consortium (W3C) specifications originally designed as a metadata data model. It has come to be used as a general method for conceptual description or modeling of information that is implemented in web resources, using a variety of syntax notations and data serialization formats. It is also used in knowledge management applications.
+
+The RDF data model is similar to classical conceptual modeling approaches such as entity–relationship or class diagrams, as it is based upon the idea of making statements about resources (in particular web resources) in the form of subject–predicate–object expressions. These expressions are known as triples in RDF terminology. The subject denotes the resource, and the predicate denotes traits or aspects of the resource and expresses a relationship between the subject and the object.
+
+We recommend the following subset of the full RDF suite:
+
+- [RDF Schema 1.1](http://www.w3.org/TR/2014/REC-rdf-schema-20140225/)
+- [RDF 1.1 Concepts and Abstract Syntax](http://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/)
+- [RDF 1.1 Semantics](http://www.w3.org/TR/2014/REC-rdf11-mt-20140225/)
+
+| -                  | -                               |
+| Standards Body     | [W3C](http://www.w3.org)        |
+| Endorsement Status | Provisional Standard            |
+| Applicability      | Data Standard                   |
+| Open Standard?     | Expected Yes[^expect-yes]       |
+| License            | [W3C Document Licence][w3c-lic] |
+
+### [RDFa 1.1](http://www.w3.org/TR/cors/)
+
+RDFa (or Resource Description Framework in Attributes[1]) is a W3C Recommendation that adds a set of attribute-level extensions to HTML, XHTML and various XML-based document types for embedding rich metadata within Web documents. The RDF data-model mapping enables its use for embedding RDF subject-predicate-object expressions within XHTML documents. It also enables the extraction of RDF model triples by compliant user agents.
+
+We recommend the following subset of the full RDFa suite:
+
+- [RDFa Core 1.1 - Third Edition](http://www.w3.org/TR/rdfa-core/)
+- [HTML+RDFa 1.1](http://www.w3.org/TR/html-rdfa/)
+
+| -                  | -                               |
+| Standards Body     | [W3C](http://www.w3.org)        |
+| Endorsement Status | Provisional Standard            |
+| Applicability      | Data Standard                   |
+| Open Standard?     | Expected Yes[^expect-yes]       |
+| License            | [W3C Document Licence][w3c-lic] |
+
+### [SPARQL 1.1](http://www.w3.org/TR/sparql11-query/)
+
+SPARQL (pronounced "sparkle") is an RDF query language, that is, a semantic query language for databases, able to retrieve and manipulate data stored in Resource Description Framework (RDF) format. It was made a standard by the [RDF Data Access Working Group (DAWG)](https://www.w3.org/2009/sparql/wiki/Main_Page) of the World Wide Web Consortium, and is recognized as one of the key technologies of the semantic web.
+
+SPARQL allows users to write queries against data that follows the RDF specification of the W3C. The entire database is thus a set of "subject-predicate-object" triples. This is analogous to some NoSQL databases' usage of the term "document-key-value". RDF data can also be considered in SQL relational database terms as a table with three columns – the subject column, the predicate column and the object column.
+
+SPARQL thus provides a full set of analytic query operations such as JOIN, SORT, AGGREGATE for data whose schema is intrinsically part of the data rather than requiring a separate schema definition. Schema information (the ontology) is often provided externally, though, to allow different datasets to be joined in an unambiguous manner.
+
+| -                  | -                               |
+| Standards Body     | [W3C](http://www.w3.org)        |
+| Endorsement Status | Provisional Standard            |
+| Applicability      | Application Standard            |
+| Open Standard?     | Expected Yes[^expect-yes]       |
+| License            | [W3C Document Licence][w3c-lic] |
+
+### [URIs](https://tools.ietf.org/html/rfc3986)
+
+A Uniform Resource Identifier (URI) is a string of characters used to identify a resource. Such identification enables interaction with representations of the resource over a network, typically the World Wide Web, using specific protocols. Schemes specifying a concrete syntax and associated protocols define each URI. The most common form of URI is the Uniform Resource Locator (URL), frequently referred to informally as a web address. More rarely seen in usage is the Uniform Resource Name (URN), which was designed to complement URLs by providing a mechanism for the identification of resources in particular namespaces.
+
+| -                  | -                               |
+| Standards Body     | [IETF](http://www.ietf.org)     |
+| Endorsement Status | Provisional Standard            |
+| Applicability      | Application Standard            |
+| Open Standard?     | Unknown                         |
+| License            | Unknown                         |
+
+### [HTTP 1.1](https://tools.ietf.org/html/rfc2616)
+
+The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. Hypertext is structured text that uses logical links (hyperlinks) between nodes containing text. HTTP is the protocol to exchange or transfer hypertext.
+
+HTTP functions as a request–response protocol in the client–server computing model. A web browser, for example, may be the client and an application running on a computer hosting a web site may be the server. The client submits an HTTP request message to the server. The server, which provides resources such as HTML files and other content, or performs other functions on behalf of the client, returns a response message to the client. The response contains completion status information about the request and may also contain requested content in its message body.
+
+| -                  | -                               |
+| Standards Body     | [IETF](http://www.ietf.org)     |
+| Endorsement Status | Provisional Standard            |
+| Applicability      | Application Standard            |
+| Open Standard?     | Unknown                         |
+| License            | Unknown                         |
+
+
+## Standards Sets
+
+A standards set describes a collection of standards that can be combined together to achieve a specific purpose.
+
+### Linked Data on the Web
+
+In computing, linked data is a method of publishing structured data so that it can be interlinked and become more useful through semantic queries. It builds upon standard Web technologies, but rather than using them to serve web pages for human readers, it extends them to share information in a way that can be read automatically by computers. This enables data from different sources to be connected and queried.
+
+Tim Berners-Lee outlined four principles of linked data in his [Linked Data note of 2006](http://www.w3.org/DesignIssues/LinkedData.html), paraphrased along the following lines:
+
+- Use URIs to identify things;
+- Use HTTP URIs so that these things can be dereferenced;
+- Provide useful information about what a name identifies when it's looked up using open standards;
+- Refer to other things using their HTTP URI-based names when publishing data on the Web.
+
+The minimum standards required to deliver linked data on the web are:
+
+- [HTTP 1.1](#http1.1);
+- [URIs](#uris);
+- [RDF 1.1](#rdf1.1);
+- [SPARQL 1.1](#sparql1.1);
+- [RDFa 1.1](#rdfa1.1);
+- [CORS](#cross-originresourcesharingcors).
 
 
 ## Appendices
@@ -138,3 +254,7 @@ Hypermedia Format
 <!-- Links -->
 
 [w3c-lic]: http://www.w3.org/Consortium/Legal/2015/doc-license
+
+## Attribution
+
+- This document includes content from [Wikipedia](https://en.wikipedia.org/) re-used under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).
