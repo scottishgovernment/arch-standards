@@ -17,7 +17,7 @@ Digital First is a service standard that describes the minimum requirements when
 
 ### Relationship to the High Level Operating Framework
 
-These architecture principles are complementary to those found in the [Scottish Government High Level Operating Framework](http://www.scotland.gov.uk/Topics/Economy/digital/digitalservices/HLOF) (HLOF). These principles focus on the delivery of specific transactional services where as thos in the HLOF focus on the delivery of the organisation as a whole.
+These architecture principles are complementary to those found in the [Scottish Government High Level Operating Framework](http://www.scotland.gov.uk/Topics/Economy/digital/digitalservices/HLOF) (HLOF). These principles focus on the delivery of specific transactional services where as those in the HLOF focus on the delivery of the organisation as a whole.
 
 ### Format of this document
 
