@@ -21,3 +21,7 @@ A cost effective and energy efficient ICT estate that reduces the environmental 
     - Consider opportunities to sell or to donate equipment;
     - Develop re-use and recycling policy;
 - Provide appropriate training to ensure that staff consider environmental implications in their day-to-day work.
+
+### Supporting Material
+
+- [Scottish Government Green ICT Strategy](http://www.gov.scot/Topics/Economy/digital/digitalservices/greenict).

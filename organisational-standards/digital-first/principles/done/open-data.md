@@ -1,32 +1,31 @@
 ## Open Data
 
-Non-personal, non-commercially sensitive data from public services is a resource for wider societal use and, as such, should be made available for re-use by others.
+Make all non-personal, non-commercially sensitive data from the service available for re-use by others under an appropriate licence.
 
 ### Rationale
+
+Making data open will support:
 
 - Delivery of improved public services through public bodies making use of the data;
 - Wider social and economic benefits through innovative use of the data;
 - Accountability and transparency in the delivery of our public services;
 - Making data that the public sector holds open enables communities and individuals to understand more about public services, gain insight into their own community and contribute to future design and delivery;
-- Open data presents an opportunity for citizens to better engage with the public sector regarding both the development of policies and the delivery of public services
+- Open data presents an opportunity for citizens to better engage with the public sector regarding both the development of policies and the delivery of public services;
 - Publishing our data in a reusable form empowers others to use the data for new and exciting purposes;
 - Receiving feedback on the data we make open is valuable. Feedback and engagement can:
     - Improve the quality of the data;
     - Private insight into the data;
     - Bring wider groups into the design of public services.
 
-## Implications
+### Implications
 
-- Consider how open data can be built into our information management structure and, therefore, become a part of the standard business process;
-- Take a proactive approach to the publication of data, making this the default approach where possible;
-- Where new data is to be collected or acquired plan ahead to ensure that it can be made open;
-- Publish open data in such away that it is easy to discover, easy to access and easy to process;
-- Consider the different audiences who will be accessing the data, their different needs, and design datasets accordingly;
-- By default, release open datasets using the Open Government License choosing an alternative license only in appropriate circumstances;
-- Provide clear and accurate supporting metadata so that consumers of the data understand what the data is and are aware of any limitations;
-- Review the datasets that your enterprise currently owns, identify those that are suitable for publishing, finally, create a plan for publishing this data prioritising high-value datasets;
-- Consider the most appropriate location to host your open data sets and plan to register them with the Scottish Data Discovery Site;
-- Plan to incrementally improve the quality of open datasets setting a minimum standard of [3 star data](http://5stardata.info);
-- Document and realise appropriate governance governance for open data assets, based on the Scottish Government Open Data Strategy;
-- Measure the number of datasets made open, the quality of the data (star rating) and, where possible, the number of downloads;
-- Provide appropriate training to ensure that staff consider open data implications in their day-to-day work.
+- *Open Data by Default* – Those holding public data should make it open and available for others to re-use. Those collecting new data should ensure that the opening up of the data for re-use is built in to the process so that Open Data becomes part of the business process.
+- *Quality and Quantity* – The amount of public data we own is huge but the quality of that data will vary. Published data will be supported by metadata so that consumers of the data understand it and are aware of any limitations within it. We will seek to release data in a timely and frequent manner.
+- *Useable by All* – Data should be published in a manner which supports both easy discovery and easy re-use of the data. This includes ensuring that the format it is published in supports re-use and that it is accompanied by an open licence. Data will be made available free, with defined exceptions.
+- *Releasing Data for Improved Governance* – We will release data which supports delivery of better public services. We will use our data to improve the services and policies we deliver. We will seek through the release of data to better inform and engage with citizens.
+- *Releasing Data for Innovation* – We will encourage and empower others to make use of the data we release to develop new products and services, for non- commercial and commercial use, which will create wider economic and societal benefits. We will encourage use of the data in education to increase awareness and participation and inspire a new generation of data users.
+
+
+### Supporting Material
+
+- [Scottish Government Open Data Strategy](http://www.gov.scot/Topics/Economy/digital/digitalservices/datamanagement/OpenData).

@@ -3,7 +3,7 @@
 Use open standards and common government platforms (e.g. SWAN, myaccount) where available.
 
 
-## Rationale
+### Rationale
 
 Benefits of using open standards include:
 
@@ -16,7 +16,7 @@ Benefits of using open standards include:
 - *Sustainability* – Open standards allow large contracts to be broken down into several smaller components. This enables incremental delivery of complex solutions thus reducing risk, as well as providing a more level playing field for SMEs during procurement.
 
 
-## Implications
+### Implications
 
 - we will adopt and comply with open standards wherever possible, including documenting that compliance for service providers and potential service providers;
 - we will maintain ongoing awareness of open standards usage within our estate;
@@ -27,6 +27,7 @@ Benefits of using open standards include:
 - we  will maintain directly, or indirectly, available skilled resources who understand open standards and the implications of their use in terms of specifying, procuring and maintaining open standards based solutions.
 
 
-## Supporting material
+### Supporting Material
 
-- [GDS, Digital by Default Service Standard, Criterion 16](https://www.gov.uk/service-manual/digital-by-default#criterion-16)
+- [GDS, Digital by Default Service Standard, Criterion 16](https://www.gov.uk/service-manual/digital-by-default#criterion-16);
+- [HMG Open Standards for Government](https://www.gov.uk/government/publications/open-standards-for-government).

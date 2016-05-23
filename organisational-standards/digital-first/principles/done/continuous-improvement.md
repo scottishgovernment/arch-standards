@@ -28,7 +28,7 @@ Incremental, user-centred and regular improvement of your service through iterat
 - As well as improving your service gradually by talking to your users, talk to your team to keep improving the way they work – for example through retrospectives and stand-ups.
 
 
-### Supporting material
+### Supporting Material
 
 - [Digital First Service Standard, Continuous Improvement Criterion](http://resources.mygov.scot/standards/digital-first/#continuous-improvement);
 - [GDS Service Manual](https://www.gov.uk/service-manual).

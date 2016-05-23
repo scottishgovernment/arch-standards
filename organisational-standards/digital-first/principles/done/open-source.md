@@ -1,4 +1,3 @@
-
 ## Open source
 
 Make all new source code open and reusable, and publish it under appropriate licenses (or give a convincing explanation as to why this can’t be done for specific subsets of the source code).
@@ -22,6 +21,6 @@ Benefits of using Open Source software include:
 - We will review our existing experience and skills base and consider opportunities for up-skilling staff in matters related to open source, particularly within the areas of procurement and legal.
 
 
-### Supporting material
+### Supporting Material
 
-- [GDS, Digital by Default Service Standard, Criterion 15](https://www.gov.uk/service-manual/digital-by-default#criterion-15)
+- [GDS, Digital by Default Service Standard, Criterion 15](https://www.gov.uk/service-manual/digital-by-default#criterion-15).
