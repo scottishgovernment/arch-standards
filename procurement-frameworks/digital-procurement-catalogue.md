@@ -65,7 +65,7 @@ Covers a wide range of services including (but not limited to):
 **Start Date**: 13 May 2015
 **End Date**: 12 May 2017
 
-#### [Server Maintrenance Framework](http://www.gov.scot/Topics/Government/Procurement/directory/itms/ServerMaintenanceFramework)
+#### [Server Maintenance Framework](http://www.gov.scot/Topics/Government/Procurement/directory/itms/ServerMaintenanceFramework)
 
 The framework includes maintenance of the following:
 
