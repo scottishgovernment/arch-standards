@@ -92,7 +92,8 @@ The services that will be delivered under the Framework Agreement are:
 - Application deployment and integration services
 - Optional Services will include (if core services are procured): Hosting, application support and maintenance and integration and data migration.
 
-**Start Date**: Estimated June 2016
+**Start Date**: 1 August 2016
+**End Date**: 31 July 2018
 
 ### Crown Commercial Service Frameworks
 
@@ -103,7 +104,7 @@ The Corporate Software Solutions framework has been developed as a pan-governmen
 Under the agreement suppliers are able to provide Enterprise applications software and related services to include design, development, installation and commissioning of systems; ongoing support, training, enhancement and maintenance and some related business process support services. Solutions do not need to be completely new and could be a customisation of existing software to fit requirements.
 
 **Start Date**: 06/10/2014
-**End Date**: 05/10/2016
+**End Date**: 05/10/2017
 
 #### [Digital Marketplace: Crown Hosting Data Centres](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1069) (RM1069)
 
@@ -127,33 +128,6 @@ Key elements of the service are:
 **Start Date**: 16/03/2015
 **End Date**: 15/03/2019
 
-#### [Digital Marketplace: Digital Services](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1043ii) (RM1043ii)
-
-Digital Services is a dynamic style framework with the specific aim of helping the public sector buy, design, build and deliver digital services using an agile approach, by procuring the appropriate people resource to deliver agile software development. The framework is based on the approach detailed in the Government Digital Service Design Manual and complies with the Digital by Default Standard. We have designed specific contract terms and conditions that reflect the flexible, iterative way of an agile approach.
-
-For all central government (including arm's length bodies and non-departmental public bodies) customers we operate a managed procurement service, working with departments to buy as a single customer - the Crown.
-
-This is the second iteration of the Digital Services agreement. Digital Services 1 expired on 8 August 2015.
-
-**Scope**:
-
-The unit of measure and focus is the project team, purchased either as individual people/role(s) or purchased as a team made up of a number and type of people/roles to design, build and deliver digital services. Digital Services is based on a core set of digital capabilities. The catalogue on the Digital Marketplace lists these alongside 18 digital roles at either junior, intermediate or senior level:
-
-Capabilities:
-
-- Software Engineering and Ongoing Support
-- Agile Product Design and Delivery
-- Front-end Design and Interaction Design
-- Content Design, Editorial and Strategy
-- System Administration and Web Operations
-- User Research (UX Design)
-- Embedding Agile
-
-The agreement is designed as a single lot with multiple search or filter criteria to help you identify capable suppliers including digital capability, role (junior, intermediate and senior levels), location and technology or language.
-
-**Start Date**: 06/08/2015
-**End Date**: 04/12/2016
-
 #### [Enterprise Application Support Services](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1032) (RM1032)
 
 This agreement provides access to direct support and maintenance for Enterprise Application Software. All suppliers can support customisation and provide support independently of normal product lifecycles (for example provide continued support to legacy systems).
@@ -176,7 +150,7 @@ There are 20 suppliers in total ranging from multi-national to SME organisations
 - Lot 4: Other Non-Specified Enterprise Application Support Services
 
 **Start Date**: 26/08/2014
-**End Date**: 25/08/2016
+**End Date**: 25/08/2017
 
 #### [Digital Marketplace: G-Cloud 7](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1557vii) (RM1557vii)
 
@@ -192,7 +166,7 @@ The G-Cloud framework allows you to choose and purchase cloud services covering 
 Lot 4 is for services outside of the three traditional ‘as a service’ (aaS) areas to support customers transitioning to cloud services.
 
 **Start Date**: 23/11/2015
-**End Date**: 22/11/2016
+**End Date**: 22/05/2017
 
 #### [Technology Services](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1058) (RM1058)
 
@@ -221,20 +195,21 @@ The agreement is divided into 11 lots:
 - Lot 11: Asset disposal
 
 **Start Date**: 27/05/2015
-**End Date**: 27/11/2016
+**End Date**: 27/05/2017
 
 #### [Managed Email](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1085) (RM1085)
 
 Provides access to managed email services for public sector organisations.
 
 **Start Date**: 29/08/2014
-**End Date**: 28/08/2016
+**End Date**: 28/08/2017
 
-#### [Digital Outcomes and Specialists](https://www.gov.uk/government/publications/digital-services-store-buyers-guide/digital-servcies-buyers-guide)
+#### [Digital Outcomes and Specialists](https://www.gov.uk/government/publications/digital-services-store-buyers-guide/digital-servcies-buyers-guide) (RM1043iii)
 
 Provides services including a digital outcome, e.g. a beta of an NHS appointment booking system; digital specialists, e.g.a product manager or developers; user research studios; user research participants.
 
-**Start Date**: Mid-April 2016
+**Start Date**: 03/03/2016
+**End Date**: 02/09/2017
 
 
 ## IT Networking Frameworks
@@ -246,25 +221,28 @@ Provides services including a digital outcome, e.g. a beta of an NHS appointment
 The scope of the Framework Agreement is for the provision of traditional telephony services, described in brief as: voice calls, line provision and line rental
 
 **Start Date**: 27 June 14
-**End Date**: 26 June 16
+**End Date**: 26 June 17
 
 #### [Network Enablement Services Framework](http://www.gov.scot/Topics/Government/Procurement/directory/Telecoms/swannes )
 
 The scope of the Framework Agreement is for the provision of network enablement services described in brief as: network audits; designs and solutions
 
 **Start Date**: 31 October 14
-**End Date**: 30 October 16
+**End Date**: 30 October 17
 
-#### [Web Conferencing Framework](http://www.gov.scot/Topics/Government/Procurement/directory/Telecoms/WebConferencing)
+#### [Digital Conferencing Services Framework](http://www.gov.scot/Topics/Government/Procurement/directory/Telecoms/DigitalConferencingServices)
 
-The Web Conferencing Service includes:
+The aim of the Digital Conferencing Services framework is to maximise efficiency and collaboration enabling Scottish public sector organisations to work collaboratively and more efficiently with their stakeholders, making full use of the opportunities that technology provides to support this. The service will support the development of a collaborative environment of communications, where organisations can take advantage of a range of services from basic audio conferencing calls through to more advanced webcasting. The range of solutions available should ensure ease of access for participants from any device (including mobile) and compatibility with existing equipment, systems and services.
 
-- web conferencing
-- webinar/events
-- audio conferencing
+The Digital Conferencing Service includes:
 
-**Start Date**: 11 June 12
-**End Date**: 10 June 16
+- Audio conferencing
+- Web conferencing
+- Video conferencing
+- Webcasting
+
+**Start Date**: 1 September 2016
+**End Date**: 31 August 2018
 
 #### [Scottish Wide Area Network (SWAN)](http://www.gov.scot/Topics/Economy/digital/digitalservices/strategy)
 
@@ -276,70 +254,25 @@ The Web Conferencing Service includes:
 
 ### Crown Commercial Service Frameworks
 
-#### [PSN Connectivity](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm860) (RM860)
-
-The Public Services Network (PSN) is a multi-supplier environment providing end-to-end service assurance for security, integrity and reliability, comprising a network of networks operating at a minimum Business Impact Level of IL2 for Confidentiality and Integrity. The PSN in effect offers the benefits of a competitive multi-vendor market place, but with levels of performance and assurance typically associated with a single-supplier network. PSN suppliers must comply with rigorous standards to ensure that this integrity is maintained, and customers who wish to connect to the PSN must for their part comply with a Code of Connection. PSN standards cover service management as well as technical issues such as security, performance, reliability, quality, integrity and interoperability. All suppliers on the PSN Connectivity framework must comply with PSN standards for service management whether or not they are supplying PSN Services.
-
-**Scope**:
-
-PSN Connectivity is a framework agreement consisting of a single lot for procurement of Wide-Area (WAN) connectivity services, including access and core networks and Local Area (LAN) connectivity services.
-
-The following may also be procured through this framework in association with connectivity services:
-
-- Network encryption services
-- Network gateways
-- Key management
-- Consultancy
-- Design, deployment, transition and business continuity services
-- Implementation and support
-- Service integration
-
-Connectivity services typically include:
-
-- Access circuits – copper or fibre including dark fibre
-- Leased lines or private circuits, point-to-point or multipoint, Ethernet, SDH (Synchronous Digital Hierarchy) or DWDM (Dense Wavelength Division Multiplexing)
-- Broadband – ADSL, SDSL (Asymmetric or Symmetric Digital Subscriber Line) or equivalent including LLU (Local Loop Unbundled)
-- VPNs (Virtual Private Networks)
-- Bandwidths from 2 Megabits per second to 10 Gigabits per second
-
-**Start Date**: 25/04/2012
-**End Date**: 24/04/2016
-
-#### [PSN Services](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1498) (RM1498)
-
-The PSN Services framework allows you to purchase services that are compliant with PSN standards. The ten lots under the framework cover a wide range of services.
-
-Connectivity cannot be procured through this framework, with the exception of mobile connectivity, which can be procured through lot 6. The appropriate framework for this is PSN Connectivity (see above).
-
-**Scope**:
-
-- Lot 1 includes the following:
-    - Traditional (TDM) Telephony
-    - Hybrid Telephony (using Gateways I.E. Q sig converters to allow an evolutionary  approach to IP based solutions)
-    - IP-based Telephony systems
-    - Call packages (e.g. inbound and outbound voice minutes) and number services such as DDI / premium rate / non-geographic / enquiries
-    - Conferencing and collaboration software (including audio-conferencing, desktop videoconferencing, web conferencing, collaboration software
-    - Internet, email and website services and integrated messaging / unified communications
-    - Hosting and storage
-- Lot 2 covers CCTV (including storage, image recognition etc), alarms and remote locking as well as management of CCTV as a service
-- Lot 3 covers videoconferencing and telepresence
-- Lot 4 covers management of equipment rooms which controls LANs and local telephony services
-- Lot 5 covers all aspects of call and contact centres, based on both traditional and IP technologies
-- Lot 6 covers mobile voice and data
-- Lot 7 covers paging services
-- Lot 8 covers managed and unmanaged LAN, including infrastructure and cabling
-- Lot 9 covers IL-IL gateways and system-to-system gateways, including internet gateways and remote access services
-- Lot 10 allows you to buy any combination of the services available under the other nine lots. This lot has been included for use by customers who are replacing large and highly-integrated network/telecoms contracts rather than as a default route for procurement. This one-stop-shop approach does offer some flexibility. If your requirements include, for example, CCTV, then you can buy those services from a supplier under lot 10 as part of an integrated requirement even though that supplier might not supply them under the specialist CCTV lot. It is likely that keener competitions would be available from the specialist lots.
-
-**Start Date**: 27/06/2012
-**End Date**: 26/06/2016
-
 #### [Network Services](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1045) (RM1045)
 
-It provides access to both PSN compliant and non-PSN services. It will replace the existing and legacy agreements, including PSN Connectivity and PSN Services.
+The Network Services agreement provides customers with access to networks and telecommunications services, including PSN compliant services. It provides savings, choice and flexibility for all publicly funded organisations; whilst ensuring compliance with the wider government technology strategy through our ongoing engagement with the Government Digital Service (GDS).
+
+It provides access to specialist suppliers who can deliver the services under the 10 individual lots, as well as suppliers who can provide multiple services across a number of lots. The ability to appoint an agent to procure on your behalf, from this agreement, provides additional flexibility for complex requirements.
+
+- Lot 1: Data access services;
+- Lot 2: Local connectivity services;
+- Lot 3: Traditional telephony services;
+- Lot 4: Inbound telephony services;
+- Lot 5: IP telephony services;
+- Lot 6: Mobile voice and data services;
+- Lot 7: Paging services;
+- Lot 8: Video-conferencing services;
+- Lot 9: Audio-conferencing services;
+- Lot 10: Integrated communications.
 
 **Start Date**: 27/07/2015
-**End Date**: 26/07/2107
+**End Date**: 26/07/2017
 
 
 ## IT Products Frameworks
@@ -390,19 +323,21 @@ This list above is not exhaustive and provides an example of the products availa
 All services associated with the deployment of the product groups detailed above are considered within scope of this framework.
 
 **Start date**: 1 August 2014
-**End date**: 31 July 2016 (with the option to extend for 2 further 12 month periods)
+**End date**: 31 July 2017 (with the option to extend for 1 further 12 month periods)
 
-#### [Tablet Devices Framework](http://www.gov.scot/Topics/Government/Procurement/directory/IThardware/tabletdevices) (SP-11-009)
+#### [Desktop Client Device Framework](http://www.gov.scot/Topics/Government/Procurement/directory/IThardware/desktopcomputing) (SP-15-011-4)
 
-A single supplier framework for the provision of notebook and tablet computing and associated services.
+A single supplier framework for the provision of desktop client devices and associated services.
 
 **Scope**:
 
-- Lot 1: Notebook computers; and tablet devices with a range of form factors and operating systems, for use in an education environment;
-- Lot 2: Tablet devices with a range of operating systems for use in a corporate environment.
+- Corporate desktop PC;
+- A range of flat panel monitors.
 
-**Start Date**: 1st March 2013
-**End Date**: 27th May 2016
+All services associated with the deployment of desktop client devices, together with a range of upgrades, downgrades and accessories.
+
+**Start Date**: 20th June 2016
+**End Date**: 19th June 2018
 
 #### [Office Equipment](http://www.gov.scot/Topics/Government/Procurement/directory/IThardware/officeequip2) (PS-12-008-1, PS-12-008-2)
 
@@ -412,7 +347,7 @@ Multi-Supplier Framework:
 - Lot 2: Print estate audit services
 
 **Start Date**: 3 June 13
-**End Date**: 2 June 16
+**End Date**: 2 June 17
 
 ### Crown Commercial Service Frameworks
 
@@ -430,6 +365,7 @@ Technology Products provides a commercial route to market for all ICT product an
 **Start Date**: 17/11/2014
 **End Date**: 16/11/2016
 
+
 ## ‘Specialist’ IT Frameworks
 
 ### Crown Commercial Service Frameworks
@@ -444,22 +380,6 @@ The framework covers the full range of ICT goods, services and solutions operate
 
 **Start Date**: 27/04/2015
 **End Date**: 26/04/2017
-
-#### [Information Management and Learning Services](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1500) (RM1500)
-
-The Information Management and Learning Services framework was developed in partnership with the Department for Education. It provides wider public sector organisations with an efficient, EU compliant route for the purchase of School Management Information Systems and Learning Platforms.
-
-Information Management and Learning Services (IMLS) refer to the management of resources, data and information in the school environment using a combination of Management Information Systems (MIS) and Learning Platforms (LP).
-
-**Scope**:
-
-A choice of two lots is available:
-
-- Lot 1: Management Information Systems - a typical MIS provides a suite of software covering all parts of a schools' administration: behaviour and achievement, planning curriculum and lesson structures, dinner money, educational learning plans, data sharing for the 14-19 agenda, managing registration and admissions and providing teachers, parents and pupils access to all this information over the internet through a secure webpage.
-- Lot 2: Learning Platforms - an integrated set of interactive online services that provide teachers, learners, parents and others involved in education with information, tools and resources to support and enhance educational delivery and management.
-
-**Start Date**: 23/03/2012
-**End Date**: 22/03/2016
 
 #### [Local Authority Software Applications](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1059) (RM1059)
 
@@ -484,7 +404,7 @@ There are 11 lots:
 - Lot 11 covers the provision of software and associated services for other business systems including Waste Management, Museums, Sports and Recreation, Registrar, Burials and Crematoria and GIS
 
 **Start Date**: 05/08/2014
-**End Date**: 03/08/2016
+**End Date**: 03/08/2017
 
 
 ## IT Personnel Frameworks
